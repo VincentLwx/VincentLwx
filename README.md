@@ -1,12 +1,4 @@
-- 👋 你们好！我是 @VincentLwx！
-- 👀 我是一名在校大学生，这里将作为我学习成长的见证。我致力于在不远的未来从事软件开发、底层架构方向的工作。
-- 🌱 我目前在系统地学习《数据结构与算法》、《计算机组成原理》等基础性知识。
-- 💞️ 我希望能和志同道合的你们一起探讨学习、一起分享进步！
-- 📫 你们可以通过 QQ 或 WeChat 联系我!
-      以下是我的联系方式:
-      QQ : 740559209
-      WeChat : l740687758
-<!---
-VincentLwx/VincentLwx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ - Hello everyone! I currently live in Jiangsu, China, and I am a college student.
+ - I am committed to work in the direction of software development and underlying architecture, and I am currently systematically learning basic knowledge related to data structures, algorithms, and computer composition principles.
+ - I hope to make some like-minded friends here to discuss, share, learn and make progress together.
+ - It is a great honor to be able to collide with you! Below is the way to contact me.  QQ : 740559209
